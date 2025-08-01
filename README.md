@@ -105,6 +105,3 @@ The project follows these steps:
 
 Feel free to fork this repository, make improvements, and submit pull requests.
 
-## License
-
-[Specify your license here, e.g., MIT License]
